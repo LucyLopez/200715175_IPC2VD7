@@ -1,0 +1,13 @@
+﻿CICLO DE VIDA DEL SOFTWARE 
+1. Análisis y requerimientos 
+	Realizar el analisis de los proceso y necesidades, identificar y describir los objetos (documentación)
+2. Diseño 
+	Dar una solucion logica de como sera resuelto el problema, definir los objetos,relaciones, DB, seleccion de lenguaje y plataformas a utilizar. (documentacion)
+3. Desarollo 
+	Etapa de programacion 
+4. Prueba  del software 
+	Etapa en la que se verifica que el sistema de desarollado cumple con los requerimientos solicitados por el cliente 
+5. Implementación
+	El producto se presenta para el uso del usuario
+6. Mantenimiento
+	Mantenimiento correctivo y Continuo al producto 

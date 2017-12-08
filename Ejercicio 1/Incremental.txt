@@ -1,0 +1,8 @@
+﻿METODOLOGIA ITERATIVO INCREMENTAL 
+
+es un metodo que divide el proyecto en miniproyectos y se trabaja de pedazo en pedazo,  en todas las iteraciones se repite un proceso de trabajo similar
+internamente cada miniproyecto se trabaja un ciclo de vida por función 
+en cada iteracion se mejora el producto 
+por ultimo se realiza la union de todas las funciones para crear un producto final 
+
+una de sus ventajas es que priorización de los objetivos/requisitos en función del valor que aportan al cliente.

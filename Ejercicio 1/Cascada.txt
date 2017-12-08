@@ -1,0 +1,7 @@
+﻿METODOLOGIA CASCADA 
+Es una de las metodologías más antiguas pero funcional. 
+Su documentación es extensa
+Como su nombre lo indica su proceso es en cascada, no empieza el siguiente paso hasta no terminar el que está realizando 
+Ventajas: ordenada
+Desventajas: no se pueden hacer cambios o regresiones hasta realizar el ciclo completo, no se consulta ni se sostienen reuniones durante el desarrollo 
+Los errores se encuentran en la etapa de prueba
