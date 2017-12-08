@@ -1,0 +1,7 @@
+¿Qué entiende como "commit"?
+	guarda los cambios que se hacen sin subirlos al repositorio
+¿Qué entiende como "merge"?
+	es la union de las ramas que se trabajan en paralelo 
+¿Cuál es la diferencia entre "Pull" y "Push"?
+	Pull- baja todos los cambio realizados que otros hicieron 
+	Push- sube todo los commit al repositorio 
