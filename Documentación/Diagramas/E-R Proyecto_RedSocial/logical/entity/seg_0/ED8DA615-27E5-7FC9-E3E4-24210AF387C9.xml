@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="ED8DA615-27E5-7FC9-E3E4-24210AF387C9" name="HABILIDAD">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:34:55 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_habilidad" id="AA4B54B6-0F6F-7F22-A9B9-7FA21D6E8000">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:35:04 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="des_habilidad" id="7E9BBEF9-AAB8-2C0D-F180-F2D291C0891A">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:36:31 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="49633251-112B-81A3-EAF1-29462080BEF1" name="KARMA PK">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:35:47 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>AA4B54B6-0F6F-7F22-A9B9-7FA21D6E8000</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

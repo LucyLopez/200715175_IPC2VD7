@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_proyecto-asigna" directorySegmentName="seg_0" id="114360CF-77CF-61BE-12DA-6C4632CE21C3">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 23:26:21 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<sourcePk>108B8E3D-C5A4-B69E-4867-F4EAA1985307</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>70EA7E3B-1A99-AE4F-ECBD-6BB88F4C1442</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>721942CA-CF4C-7361-1655-D64DE967EA78</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

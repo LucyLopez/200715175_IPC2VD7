@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_habilidad-ashabilidad" directorySegmentName="seg_0" id="7F66E70E-57EF-D66F-68A7-26154DE12783">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:51:13 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<sourcePk>49633251-112B-81A3-EAF1-29462080BEF1</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>ED8DA615-27E5-7FC9-E3E4-24210AF387C9</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>BF804C6A-07D9-43FE-63AB-7D5DDF54C64D</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_habilidad-invitacion" directorySegmentName="seg_0" id="7A689D29-8C53-AC00-564C-335FF2A6D1B4">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 21:43:48 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<sourcePk>49633251-112B-81A3-EAF1-29462080BEF1</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>ED8DA615-27E5-7FC9-E3E4-24210AF387C9</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>45E31AAA-B661-6077-8810-9A9E218FDE65</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

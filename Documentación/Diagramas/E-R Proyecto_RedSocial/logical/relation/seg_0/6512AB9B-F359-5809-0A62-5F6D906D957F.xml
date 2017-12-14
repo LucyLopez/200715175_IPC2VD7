@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_asignacion-aplicar" directorySegmentName="seg_0" id="6512AB9B-F359-5809-0A62-5F6D906D957F">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 22:42:36 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<targetPk>B32ABF8F-D082-220E-23D3-9DCE1B84365F</targetPk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>721942CA-CF4C-7361-1655-D64DE967EA78</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>F9730AE2-EFEF-F233-9858-993B01EF3ABF</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

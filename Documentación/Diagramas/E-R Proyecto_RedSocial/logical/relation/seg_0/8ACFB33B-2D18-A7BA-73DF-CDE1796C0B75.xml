@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_publicacion-hacercomentario" directorySegmentName="seg_0" id="8ACFB33B-2D18-A7BA-73DF-CDE1796C0B75">
+<createdBy>Lucy</createdBy>
+<createdTime>2017-12-12 22:15:15 UTC</createdTime>
+<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
+<engineerTo>
+<item key="0FE4E92B-13B1-456E-F877-7F303AF836FB" value="true"/>
+</engineerTo>
+<sourcePk>06ED4B17-6318-484E-1634-BC8E910D741B</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>76809B6D-312D-7BC6-E257-98B8A2EA8C63</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>6502895A-3AE7-88FD-1178-3CA796A890FE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

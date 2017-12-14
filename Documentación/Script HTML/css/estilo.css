@@ -1,0 +1,165 @@
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+head{
+	background-image: url(fondo1.jpg);
+}
+
+
+body {
+	background-image: url(fondo1.jpg);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	margin: 0;
+
+
+}
+
+form {
+	width: 10%
+	max-width: 50px;
+	margin: auto;
+	background: rgba(0,0,0,0.5);
+	padding: 10px 20px;
+	margin-top: 25px;
+	box-sizing: border-box;
+	size: 10%; 
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 20px;
+	color: #fff;
+	font-size: 20px;
+}
+.wrap{
+	width: 1200px;
+	max-width: 100%;
+	margin: 1px auto;
+}
+
+ul.tabs{
+	width: 100%;
+	background: #363636;
+	list-style: none;
+	display: flex;
+}
+
+ul.tabs li{
+	width: 18%;
+}
+
+ul.tabs li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	text-align: center;
+	display: block;
+	padding: 20px 0px;
+}
+
+.active{
+	background:#24F1E4;
+}
+
+ul.tab li a .tab.text{
+	margin-left: 8px;
+}
+
+.sec{
+	width: 100%;
+	background: linear-gradient(#6C6D6D,#05F5DC);
+}
+
+.sec article{
+	padding: 30px;
+}
+
+.sec article p{
+	text-align: justify;
+}
+
+input {
+	
+	padding: 10px;
+	width: 20%;
+	margin: 30px 0;
+	border-radius: 25px;
+	font-size: 20px;
+}
+
+input[type="submit"]{
+	background: linear-gradient(#6C6D6D,#fff);
+	border: 0;
+	color: withe;
+	opacity: 0.8;
+	cursor: pointer;
+	border-radius: 50px;
+	margin-bottom: 0;
+}
+
+
+input[id="estado"]{
+	
+	width:800px;
+}
+input[id="publicar"]{
+	
+	width:80px;
+}
+
+input[id="publicar"]{
+	
+	width:90px;
+}
+input[id="regist"]{
+	display: block;
+}
+input[id="direccionar"]{
+	width: 200px;
+}
+input[type"submint"]:hover{
+	opacity: 1;
+}
+
+input[type"submint"]:active{
+	transform: scale(0.9);
+}
+
+@media (max-width: 768px;){
+	form{
+		width:  75%;
+	}
+}
+
+@media (max-width: 480 px;){
+	form{
+		width:  50%;
+	}
+
+	ul.tab li{
+		width: none;
+		flex-basis: 0;
+		flex-grow: 1;
+	}
+
+}
+
+
+footer{
+	background-color: #4682B4;
+	color: black;
+}
+
+#Cerrar{
+	margin: auto;
+	width: 100%;
+	box-sizing: none;
+	padding: 10% ;
+	border: none; 
+	background-color: none;
+}
