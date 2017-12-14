@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="E-R Proyecto_RedSocial" id="F9841057-FA53-16B3-34EE-1AE1C9291E04" version="3.5">
-<createdBy>Lucy</createdBy>
-<createdTime>2017-12-12 21:13:53 UTC</createdTime>
-<ownerDesignName>E-R Proyecto_RedSocial</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>F9841057-FA53-16B3-34EE-1AE1C9291E04</designId>
-</OSDM_Design>
